@@ -1,6 +1,8 @@
 MANIFEST
 Makefile.PL
 META.yml
+README
+Changes
 lib/Kwiki/ReferrerLog.pm
 inc/Module/Install.pm
 inc/Module/Install/Metadata.pm

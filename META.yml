@@ -1,5 +1,5 @@
 name: Kwiki-ReferrerLog
-version: 0.01
+version: 0.05
 abstract: Log Referrers to your Kwiki
 author: Benjamin Reitzammer <cpan@nur-eine-i.de>
 license: perl
